@@ -26,7 +26,7 @@ A JavaScript tool that scans the Agricola website for cards and extracts their d
 A simple script to add a specific card to your collection:
 - Configure with your username and target collection
 - Specify the card ID you want to add
-- Securely prompts for password
+- Securely prompts for password (not that this matters since play-agricola.com is not secure with passwords)
 
 ### update_highly_rated.js
 
